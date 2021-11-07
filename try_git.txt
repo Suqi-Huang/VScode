@@ -2,3 +2,4 @@
 真的是一只好狗狗呀。
 我的心情很不错呢。
 我想用TortoiseGit推送。
+设置TortoiseGit，用TortoiseGit推送。
