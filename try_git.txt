@@ -5,3 +5,4 @@
 设置TortoiseGit，用TortoiseGit推送。
 用TortoiseGit提交&推送。
 Try pull set upstream.
+远程添加一行。
