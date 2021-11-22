@@ -9,3 +9,4 @@ Try pull set upstream.
 本地添加一行。
 增加branch dev.
 master增加一行。
+在dev分支再提交一次更改,观察graph
