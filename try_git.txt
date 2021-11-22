@@ -8,3 +8,4 @@ Try pull set upstream.
 远程添加一行。
 本地添加一行。
 增加branch dev.
+在dev分支再提交一次更改,观察graph
